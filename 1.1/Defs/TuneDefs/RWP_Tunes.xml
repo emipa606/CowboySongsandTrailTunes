@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <SoundDef Class="IndustrialAge.Objects.TuneDef">
+    <defName>Estate_GS_ConstantSorrow</defName>
+    <label>Man of Constant Sorrow</label>
+    <artist>The Soggy Bottom Boys</artist>
+    <durationTime>256</durationTime>
+    <sustain>True</sustain>
+    <priorityMode>PrioritizeNearest</priorityMode>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <muteWhenPaused>True</muteWhenPaused>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Radio/ConstantSorrow</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>20</min>
+          <max>20</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef Class="IndustrialAge.Objects.TuneDef">
+    <defName>Estate_GS_AmarilloByMorning</defName>
+    <label>Amarillo By Morning</label>
+    <artist>George Strait</artist>
+    <durationTime>176</durationTime>
+    <sustain>True</sustain>
+    <priorityMode>PrioritizeNearest</priorityMode>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <muteWhenPaused>True</muteWhenPaused>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Radio/AmarilloByMorning</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>20</min>
+          <max>20</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef Class="IndustrialAge.Objects.TuneDef">
+    <defName>Estate_GS_AshokanFarewell</defName>
+    <label>Ashokan Farewell</label>
+    <artist>Jay Ungar</artist>
+    <durationTime>244</durationTime>
+    <sustain>True</sustain>
+    <priorityMode>PrioritizeNearest</priorityMode>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <muteWhenPaused>True</muteWhenPaused>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Radio/AshokanFarewell</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>30</min>
+          <max>30</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef Class="IndustrialAge.Objects.TuneDef">
+    <defName>Estate_GS_BigIron</defName>
+    <label>Big Iron</label>
+    <artist>Marty Robbins</artist>
+    <durationTime>375</durationTime>
+    <sustain>True</sustain>
+    <priorityMode>PrioritizeNearest</priorityMode>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <muteWhenPaused>True</muteWhenPaused>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Radio/BigIron</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>20</min>
+          <max>20</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef Class="IndustrialAge.Objects.TuneDef">
+    <defName>Estate_GS_BonnieBlueFlag</defName>
+    <label>The Bonnie Blue Flag</label>
+    <artist>Tennessee Ernie Ford</artist>
+    <durationTime>150</durationTime>
+    <sustain>True</sustain>
+    <priorityMode>PrioritizeNearest</priorityMode>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <muteWhenPaused>True</muteWhenPaused>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Radio/BonnieBlueFlag</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>20</min>
+          <max>20</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef Class="IndustrialAge.Objects.TuneDef">
+    <defName>Estate_GS_CoolWater</defName>
+    <label>Cool Water</label>
+    <artist>Hank Williams</artist>
+    <durationTime>226</durationTime>
+    <sustain>True</sustain>
+    <priorityMode>PrioritizeNearest</priorityMode>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <muteWhenPaused>True</muteWhenPaused>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Radio/CoolWater</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>20</min>
+          <max>20</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef Class="IndustrialAge.Objects.TuneDef">
+    <defName>Estate_GS_CowboySweetheart</defName>
+    <label>I Want to Be a Cowboy's Sweetheart</label>
+    <artist>Patsy Montana</artist>
+    <durationTime>185</durationTime>
+    <sustain>True</sustain>
+    <priorityMode>PrioritizeNearest</priorityMode>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <muteWhenPaused>True</muteWhenPaused>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Radio/CowboysSweetheart</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>20</min>
+          <max>20</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef Class="IndustrialAge.Objects.TuneDef">
+    <defName>Estate_GS_ElPaso</defName>
+    <label>El Paso</label>
+    <artist>Marty Robbins</artist>
+    <durationTime>263</durationTime>
+    <sustain>True</sustain>
+    <priorityMode>PrioritizeNearest</priorityMode>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <muteWhenPaused>True</muteWhenPaused>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Radio/ElPaso</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>20</min>
+          <max>20</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef Class="IndustrialAge.Objects.TuneDef">
+    <defName>Estate_GS_Lonesome</defName>
+    <label>I'm So Lonesome I Could Cry</label>
+    <artist>Hank Williams</artist>
+    <durationTime>169</durationTime>
+    <sustain>True</sustain>
+    <priorityMode>PrioritizeNearest</priorityMode>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <muteWhenPaused>True</muteWhenPaused>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Radio/Lonesome</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>20</min>
+          <max>20</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef Class="IndustrialAge.Objects.TuneDef">
+    <defName>Estate_GS_YellowRose</defName>
+    <label>Yellow Rose of Texas</label>
+    <artist>Ernest Tubb</artist>
+    <durationTime>146</durationTime>
+    <sustain>True</sustain>
+    <priorityMode>PrioritizeNearest</priorityMode>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <muteWhenPaused>True</muteWhenPaused>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Radio/YellowRose</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>20</min>
+          <max>20</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef Class="IndustrialAge.Objects.TuneDef">
+    <defName>Estate_GS_Jailhouse</defName>
+    <label>In The Jailhouse Now</label>
+    <artist>The Soggy Bottom Boys</artist>
+    <durationTime>215</durationTime>
+    <sustain>True</sustain>
+    <priorityMode>PrioritizeNearest</priorityMode>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <muteWhenPaused>True</muteWhenPaused>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Radio/Jailhouse</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>20</min>
+          <max>20</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef Class="IndustrialAge.Objects.TuneDef">
+    <defName>Estate_GS_HappyTrails</defName>
+    <label>Happy Trails</label>
+    <artist>Roy Rogers and Dale Evans</artist>
+    <durationTime>215</durationTime>
+    <sustain>True</sustain>
+    <priorityMode>PrioritizeNearest</priorityMode>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <muteWhenPaused>True</muteWhenPaused>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Radio/HappyTrails</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>20</min>
+          <max>20</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef Class="IndustrialAge.Objects.TuneDef">
+    <defName>Estate_GS_OldPaint</defName>
+    <label>I Ride an Old Paint</label>
+    <artist>Tim O'Brien</artist>
+    <durationTime>231</durationTime>
+    <sustain>True</sustain>
+    <priorityMode>PrioritizeNearest</priorityMode>
+    <context>MapOnly</context>
+    <eventNames />
+    <subSounds>
+      <li>
+        <muteWhenPaused>True</muteWhenPaused>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Radio/OldPaint</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>20</min>
+          <max>20</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+</Defs>
