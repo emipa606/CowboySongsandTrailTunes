@@ -1,32 +1,32 @@
 ManifestFileVersion: 0
-CRC: 4104638088
+CRC: 93062582
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 10aaf9db4e7a051b84e6cd244f999d99
+    Hash: c0b84ef7abfd12fb74f285c3a06af25a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 10aaf9db4e7a051b84e6cd244f999d99
+    Hash: c0b84ef7abfd12fb74f285c3a06af25a
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/CowboysSweetheart.mp3
-- Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/ElPaso.mp3
-- Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/BigIron.mp3
-- Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/AshokanFarewell.mp3
-- Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/AmarilloByMorning.mp3
-- Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/Jailhouse.mp3
-- Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/HappyTrails.mp3
+- Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/Lonesome.mp3
 - Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/BonnieBlueFlag.mp3
 - Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/YellowRose.mp3
-- Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/CoolWater.mp3
-- Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/OldPaint.mp3
+- Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/ElPaso.mp3
 - Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/ConstantSorrow.mp3
-- Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/Lonesome.mp3
+- Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/AshokanFarewell.mp3
+- Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/HappyTrails.mp3
+- Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/CoolWater.mp3
+- Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/AmarilloByMorning.mp3
+- Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/Jailhouse.mp3
+- Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/OldPaint.mp3
+- Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/CowboysSweetheart.mp3
+- Assets/Data/Mlie.CowboySongsandTrailTunes/Sounds/Radio/BigIron.mp3
 Dependencies: []
